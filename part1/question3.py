@@ -26,7 +26,6 @@
 # formulas and their outputs in the test file, `question3_test.py`.
 
 # This function should return an oven instance!
-
 def make_oven():
   None
 
