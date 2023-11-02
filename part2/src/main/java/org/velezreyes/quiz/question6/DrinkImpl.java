@@ -10,11 +10,11 @@ public class DrinkImpl implements Drink{
     }
     @Override
     public String getName() {
-        return null;
+        return this.name;
     }
 
     @Override
     public boolean isFizzy() {
-        return false;
+        return this.isFizzy;
     }
 }
